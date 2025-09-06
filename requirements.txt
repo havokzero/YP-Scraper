@@ -1,0 +1,9 @@
+aiohttp
+aiosqlite
+selectolax
+beautifulsoup4
+colorama
+uvloop; platform_system != "Windows"
+
+# Optional (only if you plan to enable Selenium fallback)
+selenium
